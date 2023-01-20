@@ -1,2 +1,3 @@
 Im Starting work on Git Commands
-Lear Fasr
+Lear Fast
+I'm adding new line
